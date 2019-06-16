@@ -105,7 +105,10 @@ https://github.com/haghish/github.
   howpublished = {\url{https://github.com/czxa/cuse}},
   note = {Accessed June 3, 2019},
   title = {CUSE：构建自己的 Stata 数据集仓库},
-  author = {程振兴}
+  author = {程振兴},
+  month = {6},
+  year = {2019},
+  URL = {https://github.com/czxa/cuse}
 }
 ```
 
