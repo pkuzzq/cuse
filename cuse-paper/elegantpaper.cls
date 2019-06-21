@@ -241,7 +241,8 @@
 
 
 
-\RequirePackage{listings} 
+\RequirePackage{listings}
+\RequirePackage{listings-stata}
 \renewcommand{\ttdefault}{cmtt}
 \lstdefinestyle{mystyle}{
   basicstyle=%
@@ -253,10 +254,9 @@
 
 \definecolor{lightgrey}{rgb}{0.9,0.9,0.9}
 \definecolor{frenchplum}{RGB}{190,20,83}
-\lstset{
+\lstset{language=stata,
   columns=fixed,
   numbers=left,
-  texcsstyle=*\color{winered},
 	breaklines=true,
 	keywordstyle=\color{winered},
 	commentstyle=\color{gray},

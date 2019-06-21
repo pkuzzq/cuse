@@ -95,22 +95,6 @@ https://github.com/haghish/github.
 
 > MITCHELL M N, 2012. A visual guide to stata graphics[M/OL]. 3rd edition ed. Stata Press. https://www.stata-press.com/data/vgsg3.html.
 
-引用
-------
-
-如果你需要引用此命令，请参考 [cuse-cite.bib](https://www.czxa.top/cuse/cuse-cite.bib)。
-
-```bib
-@Misc{cuse,
-  howpublished = {\url{https://github.com/czxa/cuse}},
-  note = {Accessed June 3, 2019},
-  title = {CUSE：构建自己的 Stata 数据集仓库},
-  author = {程振兴},
-  month = {6},
-  year = {2019},
-  URL = {https://github.com/czxa/cuse}
-}
-```
 
 ------------
 
