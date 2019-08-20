@@ -100,20 +100,6 @@ https://github.com/haghish/github.
 
 <h4 align="center">
 
-Code of Conduct
-
-</h4>
-
-<h6 align="center">
-
-Please note that this project is released with a [Contributor Code of
-Conduct](CODE_OF_CONDUCT.md).<br>By participating in this project you
-agree to abide by its terms.
-
-</h6>
-
-<h4 align="center">
-
 License
 
 </h4>
