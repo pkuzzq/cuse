@@ -1,5 +1,5 @@
 v 2.0.0
 d CUSE：构建自己的 Stata 数据集仓库
-d https://www.czxa.top/cuse
+d https://czxa.github.io/cuse/
 p cuse
 p cuselist

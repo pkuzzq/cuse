@@ -1,6 +1,6 @@
-cuse<img src="https://www.czxa.top/cuse/assets/cuse-fit.png" align="right" />
+cuse<img src="https://czxa.github.io/cuse/assets/cuse-fit.png" align="right" />
 ========================================================
-[![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=plastic)](https:www.czxa.top) [![](https://img.shields.io/badge/Stata-cuse-brightgreen.svg?style=plastic)](https://www.czxa.top) [![](https://img.shields.io/badge/github-Stata-orange.svg?style=plastic)](https://www.czxa.top) [![](https://img.shields.io/badge/platform-Windows_OS|Mac_OS-orange.svg?style=plastic)](https://www.czxa.top)
+[![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=plastic)](https:czxa.top) [![](https://img.shields.io/badge/Stata-cuse-brightgreen.svg?style=plastic)](https://czxa.top) [![](https://img.shields.io/badge/github-Stata-orange.svg?style=plastic)](https://czxa.top) [![](https://img.shields.io/badge/platform-Windows_OS|Mac_OS-orange.svg?style=plastic)](https://czxa.top)
 
 cuse 命令通过使用必应词典和有道翻译的接口实现了在Stata中进行中英文单词、词语和句子的互译。
 
@@ -10,7 +10,7 @@ cuse 命令通过使用必应词典和有道翻译的接口实现了在Stata中�
 Stata 提供了一种安装外部命令的基础命令：`net install`，你可以在 Stata 的命令输出窗口输入下面的命令安装 `cuse` 命令：
 
 ```py
-net install cuse, from("https://www.czxa.top/cuse")
+net install cuse, from("https://czxa.github.io/cuse/")
 ```
 
 推荐使用 [E. F. Haghish](https://github.com/haghish) 开发的 [github](https://github.com/haghish/github) 命令安装：
@@ -30,7 +30,7 @@ github install czxa/cuse, replace
 帮助文档
 --------
 
-[CUSE：构建自己的Stata 数据集仓库.PDF](https://www.czxa.top/cuse/cuse-paper/cuse.pdf)
+[CUSE：构建自己的Stata 数据集仓库.PDF](https://czxa.github.io/cuse/cuse-paper/cuse.pdf)
 
 用法
 --------
